@@ -1,0 +1,7 @@
+AppSPN;InternalURL;ExternalURL;AppName;ConnectorGroup;AllowGroup;OwnerUPN
+;https://demo1.nextxpert.net/;https://demo1-nexzilla.msappproxy.net/;Demo1;DemoConnector Group;_NextFamily;adminray@hyperxpert.net
+http/demo2.nextxpert.net;https://demo2.nextxpert.net/path/;https://demo2-nexzilla.msappproxy.net/path/;Demo2;;All Users;sander@hyperxpert.net
+;https://demo3.nextxpert.net;https://demo3-nexzilla.msappproxy.net/;Demo3;DemoConnector Group;_NextOuders
+http/demo4.netxtxpert.net;https://demo4.nextxpert.net/;https://demo4-int-nexzilla.msappproxy.net/;Demo4;;
+http/demo5.nextxpert.net;https://demo5.nextxpert.net/;https://demo5.nextxpert.net/;Demo5;;
+;https://demo6.nextxpert.net/demo/;https://demo6-nexzilla.msappproxy.net/demo/;Demo6;Default;_NextFamily;doesnotexist@hyperxpert.net
